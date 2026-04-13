@@ -14,7 +14,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> netflixxxxxxxxx</h2>
+      <h2> meraa netflix</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
