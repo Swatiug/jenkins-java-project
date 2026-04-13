@@ -18,7 +18,7 @@
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>swaaaati mail</label>
+          <label>swaati maill</label>
         </div>
         <div class="form-control">
           <input type="password" required />
