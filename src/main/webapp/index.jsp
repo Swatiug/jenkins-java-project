@@ -14,11 +14,11 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> meraa netflix</h2>
+      <h2> mera netflix</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
-          <label>swaati maill</label>
+          <label>enter your maill</label>
         </div>
         <div class="form-control">
           <input type="password" required />
